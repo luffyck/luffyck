@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lucimornst@gmail.com
 - 😄 Pronouns: He/Him 👦
 - ⚡ Fun fact: My name is Anirudh. Luffy is my favourite protagonist😃
+- ![gitartwork](https://github.com/luffyck/luffyck/blob/main/gitartwork.svg)
