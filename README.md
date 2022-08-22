@@ -7,7 +7,7 @@ How you Doin'?
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on practicing competitive coding
-- 🌱 I’m learning Django
+- 🌱 I’m learning ------
 - 📫 How to reach me: lucimornst@gmail.com
 - 😄 Pronouns: He/Him 👦
 - ⚡ Fun fact: My name is Anirudh. Luffy is my favourite protagonist😃
